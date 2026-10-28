@@ -308,6 +308,8 @@ The useful first question is not "which provider?", but "what boundary protects 
 | [AgentWall: A Runtime Safety Layer for Local AI Agents](https://arxiv.org/abs/2605.16265)                        | Paper              | Runtime safety layer for local agents.                                        |
 | [Security Engineering, Ross Anderson](https://www.cl.cam.ac.uk/archive/rja14/book.html)                          | Book               | Deep reference for security engineering, access control, and threat modeling. |
 
+| [InGravity](https://github.com/Tchesseludovic17-cloud/ingravity) | Open-Source Tool | Policy gateway for agent actions with deterministic checks, audit records, human approval workflows, and an MCP interface. |
+
 ## Observability and Evaluation
 
 | Resource                                                                                                               | Type                   | Why it matters                                                        |
